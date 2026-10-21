@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234238188486",
+    "project_id": "muralappflutter",
+    "storage_bucket": "muralappflutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234238188486:android:ecad4f5958bb1f45e170c7",
+        "android_client_info": {
+          "package_name": "com.example.muralapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjt25t-YkDLteeS9818LAd_qW4ekUpn20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
